@@ -11,3 +11,8 @@ The app will preprocess and split the data automatically.
 View Results:
 Explore the predictions and visualize the performance of the classifier.
 Remember to replace the placeholders (such as project-specific URLs, installation instructions, and license details) with your actual project information. Happy coding! 🚀
+
+BELOW I WILL BE SHARING SOME SNAPS SHOWCASING THE DESIGN :
+
+![Screenshot 2024-05-02 043643](https://github.com/apm-oggie/Network-Intrusion-Detection/assets/94683605/0544dd7e-15c6-4037-8286-a07905b4fbf3)
+![Screenshot 2024-05-02 043704](https://github.com/apm-oggie/Network-Intrusion-Detection/assets/94683605/0229642f-16e5-49f5-b9e1-2290118c5770)
